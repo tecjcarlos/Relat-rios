@@ -11,6 +11,7 @@ Esta aplicação móvel para Android e iOS tem como objetivo auxiliar no preench
 ## Problemas conhecidos
 
 - Leitura da tela do radio com balanço do carro
+- Captura manual de dados
 
 ## Mapeamento de sinal TETRA em deslocamento
 
